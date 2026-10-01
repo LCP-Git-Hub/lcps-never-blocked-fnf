@@ -1,4 +1,4 @@
-# FNF LCPS Offline
+# FNF LCPS NEVER BLOCKED
 
 Personal offline Chromebook copy of Friday Night Funkin' v0.8.6. Your way.
 
