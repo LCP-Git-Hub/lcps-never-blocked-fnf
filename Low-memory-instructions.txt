@@ -1,0 +1,10 @@
+LOW-MEMORY OFFLINE GAME
+
+1. Download FNF-LCPS-All-in-One.html and keep it in Downloads.
+2. Open it in Chrome.
+3. Click Choose this game HTML and select that same FNF-LCPS-All-in-One.html.
+4. Click Play offline, then the game's Touch Here to Play screen.
+
+Select the HTML once each time you open the game. No extraction, internet, or separate game folder is needed. This lets Chrome read assets directly from disk instead of keeping the entire game payload in RAM. Switching songs does not require selecting the file again.
+
+Keep the HTML in place while playing. Song loading can still take time. Very low-memory devices can still run out of RAM from the game's decoded textures and audio.
